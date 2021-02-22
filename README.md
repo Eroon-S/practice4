@@ -6,7 +6,6 @@
 
 :green_heart:
 ---
----
 
 used **CSS, JavaScript**
 
